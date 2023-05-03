@@ -16,7 +16,17 @@ I am Divey Anand, a data science enthusiast from India. Welcome to my GitHub pro
 
 [![Divey's GitHub stats](https://github-readme-stats.vercel.app/api?username=devworlddivey)](https://github.com/anuraghazra/github-readme-stats)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-![Divey's GitHub stats](https://github-readme-stats.vercel.app/api?username=devworlddivey&count_private=true)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
