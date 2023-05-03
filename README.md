@@ -15,6 +15,10 @@ I am Divey Anand, a data science enthusiast from India. Welcome to my GitHub pro
 📫 You can reach out to me at https://www.linkedin.com/in/divey-anand-50915898/
 
 [![Divey's GitHub stats](https://github-readme-stats.vercel.app/api?username=devworlddivey)](https://github.com/anuraghazra/github-readme-stats)
+------------------------------------------------------------------------------------------------------------------------------------------------
+![Divey's GitHub stats](https://github-readme-stats.vercel.app/api?username=devworlddivey&count_private=true)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 😄 Fun fact: I love exploring new cultures and cuisines.
 
